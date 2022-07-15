@@ -42,12 +42,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -966,6 +966,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
+      SpriteSheet_36: -1514268183
+      SpriteSheet_37: 429184505
       SpriteSheet_13: -459321833
       SpriteSheet_19: -1913642289
       SpriteSheet_30: -162614151
@@ -989,7 +991,6 @@ TextureImporter:
       SpriteSheet_25: 2016594171
       SpriteSheet_38: 1490785810
       SpriteSheet_39: -755417645
-      SpriteSheet_36: -1514268183
       SpriteSheet_1: -892777214
       SpriteSheet_10: -567411928
       SpriteSheet_22: -816550065
@@ -998,14 +999,13 @@ TextureImporter:
       SpriteSheet_21: -2103705990
       SpriteSheet_12: 1856264278
       SpriteSheet_32: -501497543
-      SpriteSheet_37: 429184505
       SpriteSheet_20: 1291888885
-      SpriteSheet_18: -1303765715
-      SpriteSheet_17: 233179317
       SpriteSheet_28: -902955674
+      SpriteSheet_17: 233179317
+      SpriteSheet_18: -1303765715
+      SpriteSheet_34: -2121434076
       SpriteSheet_9: -1042893798
       SpriteSheet_11: -1096940449
-      SpriteSheet_34: -2121434076
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
